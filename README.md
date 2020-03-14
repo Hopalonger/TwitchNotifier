@@ -14,6 +14,8 @@ npm install tmi.js
 ```
 
 ## Usage
+To Run in a terminal with output run the node server command
 ``` 
 node bot.js
 ```
+To run with no program window double click to launch hide.vbs
